@@ -77,7 +77,7 @@ plaintext
 
 ## 三、资源链接
 - 视频文件：`lv_0_20260330204505.mp4`
-- 夸克网盘链接：https://pan.quark.cn/s/0f976cb6ad42
+- 夸克网盘链接：(https://pan.quark.cn/s/db044ca70040)
 - 提取方式：复制链接打开「夸克APP」即可获取
 ✅ 最后一步操作指南
 下载模型：去 https://alphacephei.com/vosk/models 下载 vosk-model-small-cn-0.22，解压后改名为model，放进hw04文件夹
